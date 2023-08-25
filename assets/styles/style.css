@@ -1,0 +1,63 @@
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.2px;
+    line-height: 1.8em;
+    color: #777;
+}
+
+nav {
+    width: auto;
+    margin-left: 0px;
+    margin-right: -15px;
+    margin-top: 6px;
+    outline: rgb(66, 153, 225) solid 1px;
+    vertical-align: middle;
+    display: block;
+    outline: rgb(66, 153, 225) solid 1px;
+}
+
+.box {
+    display: inline-block;
+    padding: 50px 40px;
+    width: 56%;
+    outline: rgb(66, 153, 225) solid 1px
+}
+
+.title {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding-bottom: 20px;
+    outline: rgb(66, 153, 225) solid 1px !important
+}
+
+p {
+    margin: 0px 0px 10px;
+    color: rgb(153, 153, 153);
+    outline: rgb(66, 153, 225) solid 1px !important
+}
+
+.btn{
+    background-color: transparent;
+color: rgb(51, 122, 183);
+text-decoration: none;
+font-family: Montserrat, "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+text-transform: uppercase;
+font-size: 0.85em;
+letter-spacing: 2px;
+transition: all 0.5s ease 0s;
+display: inline-block;
+margin-top: 30px;
+float: right;
+transform: translateX(30px);
+outline: rgb(66, 153, 225) solid 1px !important
+}
